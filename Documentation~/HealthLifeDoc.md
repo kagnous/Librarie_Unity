@@ -15,12 +15,12 @@ Le script utilise UnityEngine.UI !!!
 
 Il faut donc importer Unity UI dans le package Manager
 
-![Il faut donc importer Unity UI dans le package Manager](../Documentation~/ScreenshotUnityUI.jpg)
+![Il faut donc importer Unity UI dans le package Manager](./ScreenshotUnityUI.jpg)
 
 
 Par défaut la barre descend du bleu au rouge. Pour choisir la couleur, setter le Grandient dans le component Barre de vie
 
-![Le texte de la phrase](../Documentation~/ScreenshotBarreDeVie.jpg)
+![Le texte de la phrase](./ScreenshotBarreDeVie.jpg)
 
 ---
 
