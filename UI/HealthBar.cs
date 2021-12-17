@@ -12,7 +12,6 @@ namespace KagnousLib
     [HelpURL(Constants.DEFAULT_HELP_URL)]
     public class HealthBar : MonoBehaviour
     {
-
         /// <summary>
         /// Component slider de l'objet
         /// </summary>
